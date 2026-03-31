@@ -6,7 +6,7 @@ Personal Finance Tracking Application
 A personal finance tracking app built in 90 minutes for RSL Mini-Hack '26.
 
 ## 🔗 Live App
-[Insert your Netlify/GitHub Pages URL here]
+[https://hasith-cloud.github.io/spendwise/]
 
 ## 🔑 Login
 PIN: `1234` (can be changed in Settings)
